@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Borno</string>
+
+    <string-array name="shorborno_image_buttons">
+        <item>a1</item>
+        <item>a2</item>
+        <item>a3</item>
+        <item>a4</item>
+        <item>a5</item>
+        <item>a6</item>
+        <item>a7</item>
+        <item>a8</item>
+        <item>a9</item>
+        <item>a10</item>
+        <item>a11</item>
+    </string-array>
+
+    <string-array name="banjyonborno_image_buttons">
+        <item>b1</item>
+        <item>b2</item>
+        <item>b3</item>
+        <item>b4</item>
+        <item>b5</item>
+        <item>b6</item>
+        <item>b7</item>
+        <item>b8</item>
+        <item>b9</item>
+        <item>b10</item>
+        <item>b11</item>
+        <item>b12</item>
+        <item>b13</item>
+        <item>b14</item>
+        <item>b15</item>
+        <item>b16</item>
+        <item>b17</item>
+        <item>b18</item>
+        <item>b19</item>
+        <item>b20</item>
+        <item>b21</item>
+        <item>b22</item>
+        <item>b23</item>
+        <item>b24</item>
+        <item>b25</item>
+        <item>b26</item>
+        <item>b27</item>
+        <item>b28</item>
+        <item>b29</item>
+        <item>b30</item>
+        <item>b31</item>
+        <item>b32</item>
+        <item>b33</item>
+        <item>b34</item>
+        <item>b35</item>
+        <item>b36</item>
+        <item>b37</item>
+        <item>b38</item>
+        <item>b39</item>
+    </string-array>
+
+    <string-array name="shongkkha_image_buttons">
+        <item>c0</item>
+        <item>c1</item>
+        <item>c2</item>
+        <item>c3</item>
+        <item>c4</item>
+        <item>c5</item>
+        <item>c6</item>
+        <item>c7</item>
+        <item>c8</item>
+        <item>c9</item>
+    </string-array>
+</resources>
